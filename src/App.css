@@ -1,0 +1,86 @@
+.full-prog{
+  display: flex;
+}
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.App-link {
+  color: #61dafb;
+}
+.backgroundpicture{
+  width: 50%;
+  border-radius: 5%;
+  position: relative;
+}
+.puce{
+  width: 15%;
+  position: absolute;
+  top: 12%;
+  left: 5%;
+}
+.title{
+  position: absolute;
+  left: 27%;
+  font-size: 250%;
+}
+.cc-number{
+  display: flex;
+  font-size: 250%;
+  width: 100%;
+  color: goldenrod;
+  background-color: rgba(255,223,0, .5);
+  text-align: center;
+  justify-content: center;
+}
+.serie-number{
+  font-size: 200%;
+}
+.arrow{
+  width: 5%;
+  height: 10%;
+  border: 1px solid black;
+}
+.validity-txt{
+  font-size: 75%;
+}
+.validity-date{
+  font-size: 200%;
+  position: relative;
+  bottom: 20%;
+}
+.validity-info{
+  font-size: 75%;
+}
+.cardholder{
+  font-size: 200%;
+}
+.cc-company{
+  width: 30%;
+  position: absolute;
+  left: 120%;
+  top: 20%
+}
+.validity{
+  display: flex;
+}
+.card-info{
+  display: flex;
+  position: absolute;
+  top: 35%;
+  left: 5%;
+}.zone1{
+  display: flex;
+  position: absolute;
+  left: 70%;
+}
+.inputs-area{
+  position: absolute;
+  left: 70%;
+}
+.inputs-area h1{
+  color: white;
+}
